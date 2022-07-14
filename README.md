@@ -21,5 +21,5 @@
 
  ![giphy-computer](https://user-images.githubusercontent.com/37198402/179036914-9d350820-0052-4e03-8647-54a070931c89.gif)  
   
-  ### Espero que os repositórios e os projetos encontrados aqui, ajudem vocês à criar novos projetos!
+  ### Espero que o repositório e os projetos encontrados aqui, ajudem vocês à criar novos projetos!
 </div>
