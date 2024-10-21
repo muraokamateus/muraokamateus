@@ -1,4 +1,4 @@
-## Salve galera! Eu sou Mateus Yi Muraoka, Engenheiro da Computação:computer:!
+## Salve galera! Eu sou Mateus Yi Muraoka, Engenheiro da Computação!
 <div align="center">
   <a href="https://github.com/muraokamateus">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=muraokamateus&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
